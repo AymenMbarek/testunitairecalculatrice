@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1tkBaNCQMf4gx8PZgSDklRH9x7vBt+qft+9WXPJ/+cnlZKmb5xKmWbQBD8XVXKHraQSQd3bIXcHryhL83Hvu5Q==",
+  "success": true,
+  "projectFilePath": "D:\\3emeDSI\\TEST LOGICIELLE ( W.Bannour)\\Calculatrice\\Calculatrice\\Calculatrice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512"
+  ],
+  "logs": []s
+}
